@@ -1,0 +1,2 @@
+# RE2-YM2151
+ Functionally verified RE: Birth 2nd sound card. This project refers to the YM2151 audio circuit disclosed by SPFM FM Tower. The highlight is that it supports the use of universal dual operational amplifiers (such as NE5532, TL072) under a single 5V power supply. After multiple versions of repairs, Everything is as good as RE1-YM2151, and I added the documentation of YM2151 to be silk-screened on the front of the PCB, which looks more professional and friendly.
